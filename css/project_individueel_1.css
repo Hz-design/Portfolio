@@ -1,0 +1,127 @@
+main{
+    margin: 0% 4% 0% 4%;
+}
+.portfolio{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-image: url("../images/project_individueel_1/dotgrid_2.jpg");
+    border-radius: 25px;
+    margin: 10% 0% 0% 0%;   
+    padding:4% 0px 4% 0px;
+    text-align: center;
+    font-size: 1.4em;
+    align-items: center;
+    color: white;
+}
+p{
+    font-size: 1.1em;
+    font-weight: 500;
+}
+p, h2, h3, button, figure{
+    margin: 15px;
+}
+div{
+    margin-top: 5%;
+}
+.formaat{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+figure{
+    margin: 2%;
+    width: auto;
+}
+figcaption{
+    margin: 2%;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.vlak{
+    background-color: rgb(89, 179, 171, 0.6);
+    padding: 3%;
+    width: 60%;
+    border-radius: 25px;
+    margin-top: 0%;
+}
+.vlak-groot{
+    background-color: rgb(89, 179, 171, 0.6);
+    padding: 3%;
+    width: 80%;
+    border-radius: 25px;
+    margin-top: 4%;
+}
+.portfolio-tekst{
+    color: black;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+.portfolio-tekst h3{
+    width: 200px;
+    text-align: left;
+    margin-right: 10%;
+    height: auto;
+}
+.portfolio-tekst p{
+    width: 500px;
+    text-align: left;
+    height: auto;
+    font-size: 0.9em;
+}
+
+.portfolio-tekst-2{
+    color: black;
+    width: 50%;
+}
+.portfolio-eind{
+    color: black;
+    background-color: rgb(89, 179, 171, 0.6);
+    width: 100%;
+    height: auto;
+    padding: 5%;
+}
+.portfolio-contact{
+    color: black;
+    background-color: rgb(89, 179, 171, 0.6);
+    width: 100%;
+    height: auto;
+    padding: 5%;
+    margin: 0;
+}
+.project-logo{
+    width: auto;
+    height: 70px;
+}
+.mobiele-icoon{
+    width: 100%;
+    height: 100%;
+}
+h2{
+    width: auto;
+    font-weight: 600;
+}
+.paragraaf{
+    text-align: left;
+    margin: 1% 15% 1% 15%;
+}
+.button2{
+    text-decoration: none;
+    color: black;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 7px 14px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.button2:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 7px 14px;
+}
+h3{
+    color: black;
+}

@@ -1,0 +1,37 @@
+.portfolio{
+    background-image: unset;
+    background-color: #e9dfd9;
+}
+.portfolio-tekst ul li{
+    color: blue;
+    text-align: left;
+    width: auto;
+}
+.vlak{
+    background-color: #ffffff;
+}
+.vlak h2{
+    color: #8cbf44;
+}
+.vlak p{
+    color: black;
+}
+.portfolio-tekst p{
+    color: black;
+}
+.portfolio-tekst h3{
+    color: #8cbf44;
+}
+.vlak-groot{
+    background-color: rgb(255, 255, 255, 0.1);
+    color: black;
+}
+.vlak-groot h2{
+    color: #8cbf44;
+}
+div figure{
+    margin: 0;
+}
+.portfolio-eind{
+    background-color: #8cbf44;
+}

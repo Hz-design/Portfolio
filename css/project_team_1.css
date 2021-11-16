@@ -1,0 +1,45 @@
+.portfolio{
+    background-image: unset;
+    background-color: #f1f1f1;
+}
+.portfolio-tekst ul li{
+    color: blue;
+    text-align: left;
+    width: auto;
+}
+.vlak{
+    background-color: #141827;
+}
+.vlak h2{
+    color: #FF6200;
+}
+.vlak p{
+    color: white;
+}
+.portfolio-tekst p{
+    color: #141827;
+}
+.portfolio-tekst h3{
+    color: #FF6200;
+}
+.vlak-groot{
+    background-color: #141827;
+    color: white;
+}
+.vlak-groot h2{
+    color: #FF6200;
+}
+div figure{
+    margin: 0;
+}
+.portfolio-eind{
+    background-color: #FF6200;
+}
+a{
+    color: white;
+    text-decoration-color: #FF6200;
+
+}
+a:hover{
+    text-decoration-color: gold;
+}
